@@ -98,8 +98,8 @@
    <widget class="QPushButton" name="btn_Reboot">
     <property name="geometry">
      <rect>
-      <x>480</x>
-      <y>70</y>
+      <x>210</x>
+      <y>10</y>
       <width>80</width>
       <height>25</height>
      </rect>
